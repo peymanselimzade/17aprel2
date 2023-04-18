@@ -1,0 +1,275 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+}
+.navesas{
+    width:82%;
+    height: 5rem;
+    display: flex;
+
+}
+.bar1{
+    width: 50%;
+    height: 5rem;
+}
+.bar2{
+    width: 50%;
+    height: 5rem;
+    display: flex;
+}
+.bar1 h1{
+    padding-top: 26px;
+}
+.bar2 ul{
+    display: flex;
+    padding-top: 30px;
+}
+.bar2 li{
+    margin-right: 43px; 
+}
+.bar2 i{
+    margin-right: 5px;
+}
+.sec8{
+    width: 100%;
+    height: 18rem;
+}
+.footer {
+    width: 100%;
+    height: 18rem;
+    display: flex;
+}
+.footsol {
+    width: 80%;
+    height: 10rem;
+    display: flex;
+    margin-left: 2rem;
+}
+.footsag{
+    width: 100%;
+    height: 18rem;
+    margin-left: 10%;
+}
+.foot1sol h1{
+    margin-bottom:10px;
+}
+.foot1sol h1{
+    margin-top:50%;
+}
+.foot1sol p{
+    margin-bottom:7px;
+}
+.foot2{
+    margin-top:10%;
+}
+.foot2 h1{
+    margin-bottom: 10px;
+}
+.foot2 p{
+    margin-bottom: 5px;
+}
+.footsag h1{
+    margin-top: 8%;
+    margin-left: 15%;
+}
+.footsag p{
+    margin-top: 2.5rem;
+    margin-left: 15%;
+}
+.footsag input{
+    width: 60%;
+    height: 2.3rem;
+    margin-left: 15%;
+    font-size: 15px;
+    margin-bottom: 1rem;
+    background-color: #e3e3e3;
+    border: none;
+    padding-left: 10px;
+}
+.footsag button{
+    width: 26%;
+    height: 2.5rem;
+    background-color: #ccadad;
+    border: none;
+    color: white;
+    margin-left: 15%;
+}
+.icon i{
+    margin-top: 4rem;
+    margin-left: 1rem;
+    font-size: 1.2rem;
+}
+.sec3{
+    width: 80%;
+    height:25rem;
+}
+.who{
+    width: 100%;
+    height:25rem;
+    display: flex;
+    margin-top: 5rem;
+}
+.whosol{
+    width: 30%;
+    height: 20rem;
+}
+.whosol h1{
+    font-size: 45px;
+    margin-top: 20px;
+}
+.whosag{
+    width: 33%;
+    height: 20rem;
+    margin-top: 2rem;
+}
+.whosag p{
+    margin-top: 30px;
+}
+.secyeni{
+    width: 50%;
+    height: 5rem;
+    display: flex;
+    text-align: center;
+}
+.secyeni i{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.yeni1{
+    width: 20%;
+    height: 50px;
+}
+.yeni2{
+    width: 20%;
+    height: 50px;
+}
+.yeni3{
+    width: 20%;
+    height: 50px;
+}
+.yeni4{
+    width: 20%;
+    height: 50px;
+}
+.asd{
+    margin-left: 85%;
+}
+.imgsdiv{
+    width: 85%;
+    height: 63rem;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
+.img1{
+    width: 23%;
+    height: 20rem;
+    font-size: 17px;
+}
+.img1 img{
+    width: 100%;
+    height: 16rem;
+}
+.img1 h5{
+    padding-left: 15px;
+    padding-top: 7px;
+}
+.img2{
+    width: 23%;
+    height: 20rem;
+}
+.img2 img{
+    width: 100%;
+    height: 16rem;
+}
+.img2 h5{
+    padding-left: 15px;
+    padding-top: 7px;
+}
+.img3 img{
+    width: 100%;
+    height: 16rem;
+}
+.img3{
+    width: 23%;
+    height: 20rem;
+}
+.img3 h5{
+    padding-left: 15px;
+    padding-top: 7px;
+}
+.img4{
+    width: 23%;
+    height: 20rem;
+}
+.img4 img{
+    width: 100%;
+    height: 16rem;
+}
+.img4 h5{
+    padding-left: 15px;
+    padding-top: 7px;
+}
+.img5{
+    width: 23%;
+    height: 20rem;
+}
+.img5 img{
+    width: 100%;
+    height: 16rem;
+}
+.img5 h5{
+    padding-left: 15px;
+    padding-top: 7px;
+}
+
+.img6 img{
+    width: 100%;
+    height: 16rem;
+}
+.img6{
+    width: 23%;
+    height: 20rem;
+}
+.img6 h5{
+    padding-left: 15px;
+    padding-top: 7px;
+}
+.img7{
+    width: 23%;
+    height: 20rem;
+}
+.img7 img{
+    width: 100%;
+    height: 16rem;
+}
+.img7 h5{
+    padding-left: 15px;
+    padding-top: 7px;
+}
+.img8{
+    width: 23%;
+    height: 20rem;
+}
+.img8 img{
+    width: 100%;
+    height: 16rem;
+}
+.img8 h5{
+    padding-left: 15px;
+    padding-top: 7px;
+}
+.img9{
+    width: 23%;
+    height: 20rem;
+    margin-left: 1.5%;
+}
+.img9 img{
+    width: 100%;
+    height: 16rem;
+}
+.img9 h5{
+    padding-left: 15px;
+    padding-top: 7px;
+}
